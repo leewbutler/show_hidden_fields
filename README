@@ -1,0 +1,10 @@
+ShowHiddenFields
+================
+
+Easily hide/unhide hidden inputs during development. Unhidden fields tell you their name & id on mouse-over.
+  
+  1. Git it from github.com/leewbutler/show_hidden_fields
+  2. In config/environment.rb init block add: SHOW_HIDDEN_FIELDS = true
+  3. Restart your server.
+
+Copyright (c) 2008 Lee W Butler, released under the MIT license
